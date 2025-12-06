@@ -1,0 +1,40 @@
+
+
+
+body{
+
+background-color: #000000; 
+
+}
+hr{
+
+opacity: 20%;
+
+}
+
+a{
+
+text-decoration: none;
+color: #b74b4b;
+}
+
+
+
+
+a:hover{
+
+text-decoration: none;
+color: white;
+}
+
+h1{
+
+color: white;
+
+}
+
+u{
+
+color:black;
+
+}
